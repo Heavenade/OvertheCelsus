@@ -1,0 +1,50 @@
+﻿  AllClearScene.cpp
+  GameOverScene.cpp
+  GameScene.cpp
+  MainScene.cpp
+  StageClearScene.cpp
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsBody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsShape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsBody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameOverScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsBody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\AllClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsShape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameOverScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsShape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\AllClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsBody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsShape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsBody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\StageClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\physics/CCPhysicsShape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\StageClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\base/ccUTF8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\AllClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\base/ccUTF8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameOverScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\base/ccUTF8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\base/ccUTF8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\StageClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\base/ccUTF8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameOverScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\GameScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\AllClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\StageClearScene.cpp)
+d:\cocosproject\jewelcrush1\cocos2d\cocos\platform/CCSAXParser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
+d:\cocosproject\jewelcrush1\classes\GameScene.h(51): warning C4996: 'cocos2d::CCProgressTimer': deprecated로 선언되었습니다. (소스 파일 컴파일 중 ..\Classes\GameOverScene.cpp)
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\deprecated/CCDeprecated.h(796): note: 'cocos2d::CCProgressTimer' 선언을 참조하십시오. (소스 파일 컴파일 중 ..\Classes\GameOverScene.cpp)
+d:\cocosproject\jewelcrush1\classes\GameScene.h(51): warning C4996: 'cocos2d::CCProgressTimer': deprecated로 선언되었습니다. (소스 파일 컴파일 중 ..\Classes\GameScene.cpp)
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\deprecated/CCDeprecated.h(796): note: 'cocos2d::CCProgressTimer' 선언을 참조하십시오. (소스 파일 컴파일 중 ..\Classes\GameScene.cpp)
+d:\cocosproject\jewelcrush1\classes\GameScene.h(51): warning C4996: 'cocos2d::CCProgressTimer': deprecated로 선언되었습니다. (소스 파일 컴파일 중 ..\Classes\AllClearScene.cpp)
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\deprecated/CCDeprecated.h(796): note: 'cocos2d::CCProgressTimer' 선언을 참조하십시오. (소스 파일 컴파일 중 ..\Classes\AllClearScene.cpp)
+d:\cocosproject\jewelcrush1\classes\GameScene.h(51): warning C4996: 'cocos2d::CCProgressTimer': deprecated로 선언되었습니다. (소스 파일 컴파일 중 ..\Classes\StageClearScene.cpp)
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\deprecated/CCDeprecated.h(796): note: 'cocos2d::CCProgressTimer' 선언을 참조하십시오. (소스 파일 컴파일 중 ..\Classes\StageClearScene.cpp)
+..\Classes\GameScene.cpp(232): warning C4996: 'cocos2d::Layer::setTouchEnabled': deprecated로 선언되었습니다.
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\2d/CCLayer.h(179): note: 'cocos2d::Layer::setTouchEnabled' 선언을 참조하십시오.
+..\Classes\GameScene.cpp(233): warning C4996: 'cocos2d::Layer::setTouchMode': deprecated로 선언되었습니다.
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\2d/CCLayer.h(181): note: 'cocos2d::Layer::setTouchMode' 선언을 참조하십시오.
+..\Classes\GameScene.cpp(1517): warning C4996: 'cocos2d::CCProgressFromTo': deprecated로 선언되었습니다.
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\deprecated/CCDeprecated.h(709): note: 'cocos2d::CCProgressFromTo' 선언을 참조하십시오.
+d:\cocosproject\jewelcrush1\classes\GameScene.h(51): warning C4996: 'cocos2d::CCProgressTimer': deprecated로 선언되었습니다. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
+  d:\cocosproject\jewelcrush1\cocos2d\cocos\deprecated/CCDeprecated.h(796): note: 'cocos2d::CCProgressTimer' 선언을 참조하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
+     D:\cocosproject\Jewelcrush1\proj.win32\Release.win32\Jewelcrush1.lib 라이브러리 및 D:\cocosproject\Jewelcrush1\proj.win32\Release.win32\Jewelcrush1.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  7 of 892 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Jewelcrush1.vcxproj -> D:\cocosproject\Jewelcrush1\proj.win32\Release.win32\Jewelcrush1.exe
+  Jewelcrush1.vcxproj -> D:\cocosproject\Jewelcrush1\proj.win32\Release.win32\Jewelcrush1.pdb (Full PDB)
+  0개 파일이 복사되었습니다.
