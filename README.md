@@ -13,15 +13,15 @@ PC | 턴제 퍼즐 게임 | Cocos2d-x | c++ | (2016)
 
 ### Title
 
-https://user-images.githubusercontent.com/25508756/116260825-03850a80-a7b2-11eb-8392-7eef72b620a8.png
+![완성스샷1](https://user-images.githubusercontent.com/25508756/116260825-03850a80-a7b2-11eb-8392-7eef72b620a8.png)
 
 ### Ingame
 
-https://user-images.githubusercontent.com/25508756/116260934-1f88ac00-a7b2-11eb-973b-38b88cc359d4.png
+![완성스샷3](https://user-images.githubusercontent.com/25508756/116260934-1f88ac00-a7b2-11eb-973b-38b88cc359d4.png)
 
 ### How to Play
 
-https://user-images.githubusercontent.com/25508756/116260994-2ca59b00-a7b2-11eb-9508-767d418a9e50.png
+![완성스샷2](https://user-images.githubusercontent.com/25508756/116260994-2ca59b00-a7b2-11eb-9508-767d418a9e50.png)
 
 ## 설치 및 플레이 시
 
